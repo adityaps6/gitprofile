@@ -79,8 +79,8 @@ const CONFIG = {
     email: 'apsakngwc@gmail.com',
   },
   resume: {
-    fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+   // fileUrl:
+    //  '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C/C++',
